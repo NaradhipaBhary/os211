@@ -2,3 +2,6 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode https://osp4diss.vslm.org/ETC/logCodes.txt
 ZCZC W00 10 103 GitHub related
+ZCZC W01 30 L21 Install Debian VM
+ZCZC W01 10 L05 Troubleshooting problems
+ZCZC W01 10 L11 Updating Log 
