@@ -11,3 +11,5 @@ ZCZC W02 120 L06 Reading about LFS
 ZCZC W02 120 L25 Learning C Language
 ZCZC W02 90 L26 Relaxing
 ZCZC W02 60 L12 Completing W02 Assignment
+ZCZC W02 25 L05 Researching Pop Quiz
+ZCZC W02 5 L23 Pop Quiz
