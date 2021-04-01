@@ -16,16 +16,16 @@ ZCZC W02 90 L26 Relaxing
 ZCZC W02 60 L12 Completing W02 Assignment
 ZCZC W02 25 L05 Researching Pop Quiz
 ZCZC W02 5 L23 Pop Quiz
-ZCZC w03 120 L25 Learning aBOUT Fuse
-ZCZC w03 90 L26 Relaxing
-ZCZC w03 180 L12 Completing W03 Assignment
-ZCZC w03 60 L05 Researching Pop Quiz
-ZCZC w03 60 L23 Pop Quiz
-ZCZC w04 60 L12 Starting W04 Assignment
-ZCZC W04 40 L05 Troubleshooting problems related to w04
+ZCZC W03 120 L25 Learning aBOUT Fuse
+ZCZC W03 90 L26 Relaxing
+ZCZC W03 180 L12 Completing W03 Assignment
+ZCZC W03 60 L05 Researching Pop Quiz
+ZCZC W03 60 L23 Pop Quiz
+ZCZC W04 60 L12 Starting W04 Assignment
+ZCZC W04 40 L05 Troubleshooting problems related to W04
 ZCZC W04 25 L05 Researching Pop Quiz
-ZCZC w04 60 L23 Pop Quiz
-ZCZC w04 60 L26 Relaxing
+ZCZC W04 60 L23 Pop Quiz
+ZCZC W04 60 L26 Relaxing
 ZCZC W04 65 L06 Reading about memory management in computer
-ZCZC w04 180 L12 Completing W04 Assignment
+ZCZC W04 180 L12 Completing W04 Assignment
 ZCZC W04 20 103 Pushing to github
