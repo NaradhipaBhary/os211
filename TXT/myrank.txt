@@ -17,3 +17,6 @@ ZCZC W05 nofamex
 ZCZC W06 nfrobbyz
 ZCZC W06 Pinatnat
 ZCZC W06 ni-tami
+ZCZC W07 Originica
+ZCZC W07 Pinatnat
+ZCZC W07 nfrobby
